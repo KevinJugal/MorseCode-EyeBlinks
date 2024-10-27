@@ -27,7 +27,7 @@ Make sure you have Python installed on your machine. It is recommended to use a 
 1. Clone this repository:
    ```bash
    git clone https://github.com/KevinJugal/MorseCode-EyeBlinks.git
-   cd morse-code-eye-tracking
+   cd MorseCode-EyeBlinks
 2. Create a virtual environment:
    ```bash
    python -m venv venv
