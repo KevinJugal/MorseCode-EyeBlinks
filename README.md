@@ -32,7 +32,7 @@ Make sure you have Python installed on your machine. It is recommended to use a 
    ```bash
    pip install -r requirements.txt
 
-###Code Structure
+### Code Structure
 
 morse_converter.py: Contains the function for converting Morse code to text.
 morse_eyes.py: Implements the Detectmorse class for processing video frames and detecting Morse code.
