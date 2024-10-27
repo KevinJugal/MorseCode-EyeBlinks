@@ -1,3 +1,5 @@
 scipy
 cmake
 imutils
+numpy=="1.23.5"
+opencv-python
