@@ -41,7 +41,7 @@ Make sure you have Python installed on your machine. It is recommended to use a 
 
 ### Code Structure
 
-morse_converter.py: Contains the function for converting Morse code to text.
-morse_eyes.py: Implements the Detectmorse class for processing video frames and detecting Morse code.
-morse_flask.py: Sets up the Flask web server and handles video streaming.
-morse_log.py: Handles logging of Morse code events.
+1. morse_converter.py: Contains the function for converting Morse code to text.
+2. morse_eyes.py: Implements the Detectmorse class for processing video frames and detecting Morse code.
+3. morse_flask.py: Sets up the Flask web server and handles video streaming.
+4. morse_log.py: Handles logging of Morse code events.
